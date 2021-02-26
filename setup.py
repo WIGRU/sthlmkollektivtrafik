@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="sthlmkollektivtrafik",
-    version="0.1.4",
+    version="0.1.5",
     author="William Grunder",
     author_email="William.grunder@gmail.com",
     description="Python library for easier use of www.trafiklab.se api's'",
