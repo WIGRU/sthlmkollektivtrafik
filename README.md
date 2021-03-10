@@ -5,7 +5,7 @@
 > pip install sthlmkollektivtrafik
 
 ## Environment variable names
-Store your api's as an environment variables with the names:
+Store your api-key's as an environment variables with the names:
 
 Plattsuppslag: SKT_location_api
 
